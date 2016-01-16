@@ -1,8 +1,9 @@
-# cari
-Cari hesap programı toplu olarak mal alım satımı yapan bir firmanın iş yükünü azaltmak için tasarlanmıştır.
+# Cari Hesap Takip Programı 
 
-Programa yönetici olarak giriş yapıldıktıktan sonra ekran_goruntuleri klasöründe görülen ekranlardaki tüm işlemler gerçekleştirilebilir.
+- Cari hesap programı toplu olarak mal alım satımı yapan bir firmanın iş yükünü azaltmak için tasarlanmıştır.
 
-Program raporlar sayfası altındaki Fulltext Search algoritmasının çalışması için Apache Lucene kütüphanesini kullanır. 
+- Programa yönetici olarak giriş yapıldıktıktan sonra ekran_goruntuleri klasöründe görülen ekranlardaki tüm işlemler gerçekleştirilebilir.
 
-Programda DBA olarak MSSQL SERVER kullanılmıştır ve veritabanı işlemleri Hibernate teknolojisi ile gerçekleşir. 
+- Program raporlar sayfası altındaki Fulltext Search algoritmasının çalışması için Apache Lucene kütüphanesini kullanır. 
+
+- Programda DBA olarak MSSQL SERVER kullanılmıştır ve veritabanı işlemleri Hibernate teknolojisi ile gerçekleşir. 
