@@ -5,4 +5,4 @@ Programa yönetici olarak giriş yapıldıktıktan sonra ekran_goruntuleri klas�
 
 Program raporlar sayfası altındaki Fulltext Search algoritmasının çalışması için Apache Lucene kütüphanesini kullanır. 
 
-Programda DBA olarak MSSQL SERVER kullanılmıştır ve bağlantılar veritabanı işlemleri Hibernate teknolojisi ile gerçekleşir. 
+Programda DBA olarak MSSQL SERVER kullanılmıştır ve veritabanı işlemleri Hibernate teknolojisi ile gerçekleşir. 
