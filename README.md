@@ -2,4 +2,4 @@
 
 - Cari hesap programı toplu olarak mal alım satımı yapan bir firmanın iş yükünü azaltmak için tasarlanmıştır.
 
-- Swing, Hibernate, MSSQL, Apache Lucene
+- Kullanılan Teknolojiler: Swing, Hibernate, MSSQL, Apache Lucene
