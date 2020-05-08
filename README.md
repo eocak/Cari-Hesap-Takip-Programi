@@ -4,6 +4,4 @@
 
 - Programa yönetici olarak giriş yapıldıktıktan sonra ekran_goruntuleri klasöründe görülen ekranlardaki tüm işlemler gerçekleştirilebilir.
 
-- Program raporlar sayfası altındaki Fulltext Search algoritmasının çalışması için Apache Lucene kütüphanesini kullanır. 
-
-- Programda MSSQL SERVER kullanılmıştır ve veritabanı işlemleri Hibernate teknolojisi ile gerçekleşir. 
+- Swing, Hibernate, MSSQL, Apache Lucene
